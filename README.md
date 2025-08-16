@@ -1,4 +1,4 @@
-##❤️ Heart Disease Prediction Web Application
+**❤️ Heart Disease Prediction Web Application**
 This project is a web application built with Streamlit that predicts the likelihood of a patient having heart disease based on their clinical data. The prediction is powered by a Logistic Regression model trained on the "Heart Failure Prediction" dataset.
 
 A live demonstration of the application in action.
